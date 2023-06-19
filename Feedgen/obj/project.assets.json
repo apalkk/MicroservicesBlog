@@ -12114,11 +12114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aadipalnitkar/Projects/Feedgen/Feedgen.csproj",
+      "projectUniqueName": "/Users/aadipalnitkar/Projects/MicroservicesBlog/Feedgen/Feedgen.csproj",
       "projectName": "Feedgen",
-      "projectPath": "/Users/aadipalnitkar/Projects/Feedgen/Feedgen.csproj",
+      "projectPath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/Feedgen/Feedgen.csproj",
       "packagesPath": "/Users/aadipalnitkar/.nuget/packages/",
-      "outputPath": "/Users/aadipalnitkar/Projects/Feedgen/obj/",
+      "outputPath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/Feedgen/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aadipalnitkar/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0M5NU2ZThCD4irtgdjmgv/poIylU4+5ADYJIG0wu4c8WQgzEcNgYor10rn0HMf6I0NSWI4G1EtvS2yOaHmyWXw==",
+  "dgSpecHash": "osIYdjeBZM7qJXFgfhpaIwqrBZ9EPXTgf+7nM2HHwBG4FwToG8EGjlFfcuge4FTf/jQTuH5btXH/EVwo3M82AA==",
   "success": true,
-  "projectFilePath": "/Users/aadipalnitkar/Projects/Feedgen/Feedgen.csproj",
+  "projectFilePath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/Feedgen/Feedgen.csproj",
   "expectedPackageFiles": [
     "/Users/aadipalnitkar/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/aadipalnitkar/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

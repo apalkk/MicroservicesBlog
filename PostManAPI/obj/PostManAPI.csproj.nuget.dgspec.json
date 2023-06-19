@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aadipalnitkar/Projects/PostManAPI/PostManAPI.csproj": {}
+    "/Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/PostManAPI.csproj": {}
   },
   "projects": {
-    "/Users/aadipalnitkar/Projects/PostManAPI/PostManAPI.csproj": {
+    "/Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/PostManAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aadipalnitkar/Projects/PostManAPI/PostManAPI.csproj",
+        "projectUniqueName": "/Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/PostManAPI.csproj",
         "projectName": "PostManAPI",
-        "projectPath": "/Users/aadipalnitkar/Projects/PostManAPI/PostManAPI.csproj",
+        "projectPath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/PostManAPI.csproj",
         "packagesPath": "/Users/aadipalnitkar/.nuget/packages/",
-        "outputPath": "/Users/aadipalnitkar/Projects/PostManAPI/obj/",
+        "outputPath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aadipalnitkar/.nuget/NuGet/NuGet.Config"
