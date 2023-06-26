@@ -1,6 +1,7 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace FollowAPI.Models;
+
+using System.ComponentModel.DataAnnotations;
+using SharedClasses;
 
 public class Follow {
     [Key]

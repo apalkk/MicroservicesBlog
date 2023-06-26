@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pjq6WKvQOnEvcCvt14LLYw6x+A1kUujeCEy9p4pArQvIXyf86WaZzmUGIRkKoxRLqcKz8eqOFcU5FN6HxFcWuQ==",
+  "dgSpecHash": "N+/Td3XfJskniC1FVI4+hDnHzza/k42DQSb+RIyMGwogvriI5YAxYwmu0eTxxkvy6UXybXdYlzVnBBd3VU0caQ==",
   "success": true,
-  "projectFilePath": "/Users/aadipalnitkar/Projects/UserManAPI/UserManAPI.csproj",
+  "projectFilePath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/UserManAPI/UserManAPI.csproj",
   "expectedPackageFiles": [
     "/Users/aadipalnitkar/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/aadipalnitkar/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

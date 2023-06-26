@@ -1,5 +1,7 @@
 namespace UserManAPI.Models;
 
+using SharedClasses;
+
 public class Post {
     public int postId {get; set;}
     public string Title {get; set;} = "";

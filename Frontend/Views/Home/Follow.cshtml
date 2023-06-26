@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+<h1>You can post from here</h1>
+@using (Html.BeginForm("Post", "Home", FormMethod.Post))
+{
+    <div>
+        @Html.Label("FollowId:")
+        @Html.TextBox("content")
+    </div>
+    <div>
+        <input type="submit" value="Login" />
+    </div>
+}

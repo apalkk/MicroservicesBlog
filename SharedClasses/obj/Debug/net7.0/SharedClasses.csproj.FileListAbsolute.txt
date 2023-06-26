@@ -1,0 +1,12 @@
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/bin/Debug/net7.0/SharedClasses.deps.json
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/bin/Debug/net7.0/SharedClasses.dll
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/bin/Debug/net7.0/SharedClasses.pdb
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/obj/Debug/net7.0/SharedClasses.csproj.AssemblyReference.cache
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/obj/Debug/net7.0/SharedClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/obj/Debug/net7.0/SharedClasses.AssemblyInfoInputs.cache
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/obj/Debug/net7.0/SharedClasses.AssemblyInfo.cs
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/obj/Debug/net7.0/SharedClasses.csproj.CoreCompileInputs.cache
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/obj/Debug/net7.0/SharedClasses.dll
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/obj/Debug/net7.0/refint/SharedClasses.dll
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/obj/Debug/net7.0/SharedClasses.pdb
+/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/obj/Debug/net7.0/ref/SharedClasses.dll

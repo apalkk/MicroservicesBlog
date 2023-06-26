@@ -36,7 +36,12 @@ public class FeedController : ControllerBase
        string ret = "";
        foreach(int num in Reg(i.Result))
        {
-           ret += (num.ToString());
+           var s = Interact(
+               "5173",
+               $"http://localhost:5173/api/Post/specific/{num}",
+               "{\"postId\": 0, \"title\": \"string\", \"content\": \"string\",\"likes\": 0, \"creator\": 0}");
+
+           ret += s.Result;
        }
        return ret;
     }

@@ -31,6 +31,18 @@ namespace PostManAPI.Controller
             return await _context.ProfileItems.ToListAsync();
         }
 
+        [HttpGet("/specific/{username}")]
+        public async Task<ActionResult<IEnumerable<Profile>>> GetProfileSpecific(string username)
+        {
+            if (_context.ProfileItems == null)
+            {
+                return NotFound();
+            }
+            var v = await _context.ProfileItems.ToListAsync();
+
+            return new ActionResult<IEnumerable<Profile>>(v.Where(s=>s.UserName == username));
+        }
+
         // GET: api/ProfileItems/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Profile>> GetProfile(int id)

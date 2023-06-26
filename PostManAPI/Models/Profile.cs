@@ -1,5 +1,6 @@
 namespace PostManAPI.Models;
 
+using SharedClasses;
 using System.ComponentModel.DataAnnotations;
 
 public class Profile

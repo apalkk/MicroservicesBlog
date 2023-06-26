@@ -564,3 +564,5 @@
 /Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/obj/Debug/net7.0/PostManAPI.pdb
 /Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/obj/Debug/net7.0/PostManAPI.genruntimeconfig.cache
 /Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/obj/Debug/net7.0/ref/PostManAPI.dll
+/Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/bin/Debug/net7.0/SharedClasses.dll
+/Users/aadipalnitkar/Projects/MicroservicesBlog/PostManAPI/bin/Debug/net7.0/SharedClasses.pdb

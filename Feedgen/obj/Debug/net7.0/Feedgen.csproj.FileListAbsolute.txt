@@ -562,3 +562,5 @@
 /Users/aadipalnitkar/Projects/MicroservicesBlog/Feedgen/obj/Debug/net7.0/Feedgen.pdb
 /Users/aadipalnitkar/Projects/MicroservicesBlog/Feedgen/obj/Debug/net7.0/Feedgen.genruntimeconfig.cache
 /Users/aadipalnitkar/Projects/MicroservicesBlog/Feedgen/obj/Debug/net7.0/ref/Feedgen.dll
+/Users/aadipalnitkar/Projects/MicroservicesBlog/Feedgen/bin/Debug/net7.0/SharedClasses.dll
+/Users/aadipalnitkar/Projects/MicroservicesBlog/Feedgen/bin/Debug/net7.0/SharedClasses.pdb

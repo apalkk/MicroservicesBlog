@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedClasses", "..\MicroservicesBlog\SharedClasses\SharedClasses.csproj", "{608591A9-464D-44AD-A875-F8A76D52F39B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feedgen", "..\MicroservicesBlog\Feedgen\Feedgen.csproj", "{210669C9-A7B4-4DF1-8A97-350BA6F8A314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FollowAPI", "..\MicroservicesBlog\FollowAPI\FollowAPI.csproj", "{AA9DECF9-739E-41EE-9682-0D05E1C202AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend", "..\MicroservicesBlog\Frontend\Frontend.csproj", "{74E286BC-B6D4-45CD-8C47-54BAE0A426D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostManAPI", "..\MicroservicesBlog\PostManAPI\PostManAPI.csproj", "{849C40F7-71A8-4B31-BBBB-BAC6E755CE91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManAPI", "..\MicroservicesBlog\UserManAPI\UserManAPI.csproj", "{FBAF9560-BD31-4857-AD05-AD520EDDD1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608591A9-464D-44AD-A875-F8A76D52F39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608591A9-464D-44AD-A875-F8A76D52F39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608591A9-464D-44AD-A875-F8A76D52F39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608591A9-464D-44AD-A875-F8A76D52F39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210669C9-A7B4-4DF1-8A97-350BA6F8A314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210669C9-A7B4-4DF1-8A97-350BA6F8A314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210669C9-A7B4-4DF1-8A97-350BA6F8A314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210669C9-A7B4-4DF1-8A97-350BA6F8A314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9DECF9-739E-41EE-9682-0D05E1C202AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9DECF9-739E-41EE-9682-0D05E1C202AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9DECF9-739E-41EE-9682-0D05E1C202AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9DECF9-739E-41EE-9682-0D05E1C202AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E286BC-B6D4-45CD-8C47-54BAE0A426D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E286BC-B6D4-45CD-8C47-54BAE0A426D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E286BC-B6D4-45CD-8C47-54BAE0A426D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E286BC-B6D4-45CD-8C47-54BAE0A426D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849C40F7-71A8-4B31-BBBB-BAC6E755CE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849C40F7-71A8-4B31-BBBB-BAC6E755CE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849C40F7-71A8-4B31-BBBB-BAC6E755CE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849C40F7-71A8-4B31-BBBB-BAC6E755CE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAF9560-BD31-4857-AD05-AD520EDDD1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAF9560-BD31-4857-AD05-AD520EDDD1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAF9560-BD31-4857-AD05-AD520EDDD1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAF9560-BD31-4857-AD05-AD520EDDD1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

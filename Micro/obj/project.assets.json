@@ -11665,11 +11665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aadipalnitkar/Projects/Micro/Micro.csproj",
+      "projectUniqueName": "/Users/aadipalnitkar/Projects/MicroservicesBlog/Micro/Micro.csproj",
       "projectName": "Micro",
-      "projectPath": "/Users/aadipalnitkar/Projects/Micro/Micro.csproj",
+      "projectPath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/Micro/Micro.csproj",
       "packagesPath": "/Users/aadipalnitkar/.nuget/packages/",
-      "outputPath": "/Users/aadipalnitkar/Projects/Micro/obj/",
+      "outputPath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/Micro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aadipalnitkar/.nuget/NuGet/NuGet.Config"

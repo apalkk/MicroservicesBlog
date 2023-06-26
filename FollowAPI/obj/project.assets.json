@@ -4194,6 +4194,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "SharedClasses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SharedClasses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedClasses.dll": {}
+        }
       }
     }
   },
@@ -12095,6 +12105,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "SharedClasses/1.0.0": {
+      "type": "project",
+      "path": "../SharedClasses/SharedClasses.csproj",
+      "msbuildProject": "../SharedClasses/SharedClasses.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12105,6 +12120,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.7",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.7",
+      "SharedClasses >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -12114,11 +12130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aadipalnitkar/Projects/FollowAPI/FollowAPI.csproj",
+      "projectUniqueName": "/Users/aadipalnitkar/Projects/MicroservicesBlog/FollowAPI/FollowAPI.csproj",
       "projectName": "FollowAPI",
-      "projectPath": "/Users/aadipalnitkar/Projects/FollowAPI/FollowAPI.csproj",
+      "projectPath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/FollowAPI/FollowAPI.csproj",
       "packagesPath": "/Users/aadipalnitkar/.nuget/packages/",
-      "outputPath": "/Users/aadipalnitkar/Projects/FollowAPI/obj/",
+      "outputPath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/FollowAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aadipalnitkar/.nuget/NuGet/NuGet.Config"
@@ -12134,7 +12150,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/SharedClasses.csproj": {
+              "projectPath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/SharedClasses/SharedClasses.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

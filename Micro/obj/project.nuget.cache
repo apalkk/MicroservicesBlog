@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/C6YFJypX/NHeEyQxZiXRfyKzDfCm0UuK9avj1e/D/3+0Z9XaPsB0SDa8dxZmPYnalkoxXl4eiWzROuQq1el5g==",
+  "dgSpecHash": "TxycdixpEU7Kr3HQc9YC55UUdC4M2gNS+ysB9WvC6Yhu+aQtcPMKW/zsNkIPcOWD7P8ZTTbIjap3ICU3xoEX2g==",
   "success": true,
-  "projectFilePath": "/Users/aadipalnitkar/Projects/Micro/Micro.csproj",
+  "projectFilePath": "/Users/aadipalnitkar/Projects/MicroservicesBlog/Micro/Micro.csproj",
   "expectedPackageFiles": [
     "/Users/aadipalnitkar/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/aadipalnitkar/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
